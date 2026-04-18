@@ -7,7 +7,7 @@ import Documents from '../views/Documents.vue'
 import Budget from '../views/Budget.vue'
 import Contractors from '../views/Contractors.vue'
 import Positions from '../views/Positions.vue'
-import Olap from '../views/Olap.vue'
+import Olap from '../views/OlapView.vue'
 
 const routes = [
   {
